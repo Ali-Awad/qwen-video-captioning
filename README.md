@@ -1,5 +1,7 @@
 # Qwen API Video Captioning
 
+![Qwen API Video Captioning Pipeline](assets/repo-banner.png)
+
 This repository contains tools for processing video captions using the Qwen-VL API (via DashScope). It includes scripts for generating captions, managing files, and analyzing results.
 
 ## Features
